@@ -1,0 +1,4 @@
+body { font-family: Arial, sans-serif; text-align: center; background: #f9f9f9; }
+.wrapper { width: 420px; margin: 30px auto; }
+canvas { background: #000; display: block; margin: 0 auto; }
+.tip { color: #555; }
