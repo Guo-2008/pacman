@@ -1,4 +1,24 @@
-body { font-family: Arial, sans-serif; text-align: center; background: #f9f9f9; }
-.wrapper { width: 420px; margin: 30px auto; }
-canvas { background: #000; display: block; margin: 0 auto; }
-.tip { color: #555; }
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #222;
+    color: #eee;
+    text-align: center;
+    margin: 0;
+}
+
+.wrapper {
+    width: 440px;
+    margin: 40px auto;
+}
+
+canvas {
+    background: #000;
+    display: block;
+    margin: 0 auto;
+    border: 4px solid #444;
+    border-radius: 5px;
+}
+
+.tip {
+    color: #ccc;
+}
